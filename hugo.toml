@@ -1,21 +1,21 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'PhotoGPT-Blogs'
+title = 'PhotoGPT Blogs'
 theme = 'pehtheme-hugo'
 
 paginate = '6' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters
-googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+googleAnalytics = 'G-34ZXEGDSYH' # <- Your GA-4
 disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+	description = 'Generate personalized images using AI. Professional Headshots, LinkedIN Images, Tinder Profile images, Virtual Clothing and much more. Create photo realistic images using text to image generation, Image Upscaling for HD images and free instant image generation.'
 	mainSections = 'posts'
 
 
 [author]
-	name = 'Sunil Kumar'
+	name = 'PhotoGPT Writer'
 	bio = 'Machine Learning Engineer @ Samsung'
 	avatar = '/images/sunil-kumar.png'
 	twitter = 'https://www.instagram.com/stalord23/'
