@@ -1,5 +1,5 @@
 ---
-title: The Rise of AI Glamour in fashion and trends 1
+title: The Rise of AI Glamour in fashion and trends
 date: 2024-07-26T00:00:00+05:30
 description: How Celebrities and Influencers are Embracing AI-Generated Images
   to show a different side of themself.
@@ -15,7 +15,7 @@ In the ever-twinkling world of stardom, where every pixel and pout matters, cele
 
 Recently we have seen an Instagram [post](https://www.instagram.com/p/CzCMWGnN8nD/) of Amitabh Bachchan, a famous Bollywood celebrity with more than 36 mln followers, using AI to generate his headshot.
 
-![Amitabh bachchan AI love.jpg](images/amitabh_bachchan_ai_love.webp "Amitabh bachchan")
+![Amitabh bachchan](https://www.photogptai.com/Assets/blogs/blog_1_Images/Amitabh_bachchan_ai_love.jpg)
 
 # Content
 
@@ -35,7 +35,7 @@ Here is how a well known influencer turned into a sugar mommy AI avatar using Ph
 
 [Swara the Artist - Instagram](https://www.instagram.com/p/Cx5wI8gyk37/)
 
-![Swara the Artist - Instagram post](/Assets/blogs/blog_1_Images/Swara_theartist.jpg)
+![Swara the Artist - Instagram post](https://www.photogptai.com/Assets/blogs/blog_1_Images/Swara_theartist.jpg)
 
 ## How media is using AI to generate celebrities creative content, what users want to see.
 
