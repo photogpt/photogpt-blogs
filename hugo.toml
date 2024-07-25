@@ -13,13 +13,13 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	description = 'Generate personalized images using AI. Professional Headshots, LinkedIN Images, Tinder Profile images, Virtual Clothing and much more. Create photo realistic images using text to image generation, Image Upscaling for HD images and free instant image generation.'
 	mainSections = 'posts'
 
-
 [author]
 	name = 'PhotoGPT Writer'
 	bio = 'Machine Learning Engineer @ Samsung'
 	avatar = '/images/sunil-kumar.png'
 	twitter = 'https://www.instagram.com/stalord23/'
 	instagram ="https://www.instagram.com/stalord23/"
+
 
 [menu] # Menu management
 	[[menu.main]]
