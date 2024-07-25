@@ -15,7 +15,7 @@ In the ever-twinkling world of stardom, where every pixel and pout matters, cele
 
 Recently we have seen an Instagram [post](https://www.instagram.com/p/CzCMWGnN8nD/) of Amitabh Bachchan, a famous Bollywood celebrity with more than 36 mln followers, using AI to generate his headshot.
 
-![Amitabh bachchan](https://www.photogptai.com/Assets/blogs/blog_1_Images/Amitabh_bachchan_ai_love.jpg)
+![Amitabhbachchan(https://www.photogptai.com/Assets/blogs/blog_1_Images/Amitabh_bachchan_ai_love.jpg)
 
 # Content
 
