@@ -35,7 +35,7 @@ Here is how a well known influencer turned into a sugar mommy AI avatar using Ph
 
 [Swara the Artist - Instagram](https://www.instagram.com/p/Cx5wI8gyk37/)
 
-![Swara the Artist - Instagram post](https://www.photogptai.com/Assets/blogs/blog_1_Images/Swara_theartist.jpg)
+![Swara the Artist - Instagram post](https://www.photogptai.com/Assets/blogs/blog_1_Images/Swara_theartist.jpg?format=jpeg)
 
 ## How media is using AI to generate celebrities creative content, what users want to see.
 
