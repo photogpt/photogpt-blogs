@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleansers on PhotoGPT Blogs</title>
+    <link>//localhost:1313/tags/cleansers/</link>
+    <description>Recent content in Cleansers on PhotoGPT Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cleansers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Best Cleansers for Oily Skin</title>
+      <link>//localhost:1313/posts/the-best-cleansers-for-oily-skin/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/posts/the-best-cleansers-for-oily-skin/</guid>
+      <description>The Best Cleansers for Oily Skin Oily skin can be a challenge to manage, but with the right cleanser, you can control excess oil and achieve a balanced, clear complexion.</description>
+    </item>
+  </channel>
+</rss>

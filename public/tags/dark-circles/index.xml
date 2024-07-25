@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Circles on PhotoGPT Blogs</title>
+    <link>//localhost:1313/tags/dark-circles/</link>
+    <description>Recent content in Dark Circles on PhotoGPT Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/dark-circles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 Under Eye Creams for Dark Circles</title>
+      <link>//localhost:1313/posts/top-5-under-eye-creams-for-dark-circles/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/posts/top-5-under-eye-creams-for-dark-circles/</guid>
+      <description>Top 5 Under Eye Creams for Dark Circles Dark circles under the eyes can make you look tired and aged. Choosing the right under eye cream can help to reduce the appearance of dark circles, hydrate the delicate skin, and provide a more youthful and refreshed look.</description>
+    </item>
+  </channel>
+</rss>

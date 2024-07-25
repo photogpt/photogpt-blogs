@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature on PhotoGPT Blogs</title>
+    <link>//localhost:1313/tags/feature/</link>
+    <description>Recent content in Feature on PhotoGPT Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Science Behind Anti-Aging Skincare</title>
+      <link>//localhost:1313/posts/anti-aging-skincare-science/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/posts/anti-aging-skincare-science/</guid>
+      <description>Get your Free Skin Analysis here&#xA;Aging is a natural process, but modern skincare science offers solutions to slow down its visible effects.</description>
+    </item>
+  </channel>
+</rss>

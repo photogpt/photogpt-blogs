@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diet on PhotoGPT Blogs</title>
+    <link>//localhost:1313/tags/diet/</link>
+    <description>Recent content in Diet on PhotoGPT Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/diet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Diet in Skin Health: What to Eat for Glowing Skin</title>
+      <link>//localhost:1313/posts/diet-skin-health-glowing-skin/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/posts/diet-skin-health-glowing-skin/</guid>
+      <description>Your diet plays a crucial role in maintaining skin health. What you eat can affect your skin’s appearance, texture, and overall health.</description>
+    </item>
+  </channel>
+</rss>
