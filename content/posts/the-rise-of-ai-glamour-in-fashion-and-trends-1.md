@@ -7,7 +7,7 @@ tags:
   - AI
 categories:
   - Blogs
-image: images/swara_theartist.webp
+image: images/amitabh_bachchan_ai_love.webp
 ---
 # The Rise of AI Glamour: How Celebrities Are Embracing AI-Generated Images
 
