@@ -49,7 +49,7 @@ But let's keep it real – will AI replace the traditional paparazzi shots or th
 
 With this, the media is also not leaving a stone unturned to use this opportunity and promote their social media content. See the latest post by news yahoo - Discover the future of fame with [28 AI-Generated Photos Of Gen Z Celebrities That Show What They'll Look Like When They're MUCH Older](https://news.yahoo.com/used-ai-see-gen-z-131602659.html). This captivating gallery showcases how today's young stars might age, using advanced AI technology. From youthful glow to distinguished maturity, these images offer a unique glimpse into the potential future appearances of beloved Gen Z icons
 
-![AI imagines how celebrities would look like with ‘normal’ jobs](/Assets/blogs/blog_1_Images/GenZ_celebs.jpg)
+![AI imagines how celebrities would look like with ‘normal’ jobs](https://leonardo-cdn.b-cdn.net/wp-content/uploads/2024/06/big-img-hero-o.jpg)
 
 Another creator, Christian Smooth of Annapolis, Maryland, reimagined the lives of several A-listers, depicting Kim Kardashian as a nurse, Oprah as a shoe salesperson and billionaire Elon Musk living in a mobile home, in images of remarkable — and remarkably convincing — quality.
 
