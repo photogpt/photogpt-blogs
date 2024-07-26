@@ -1,28 +1,35 @@
 <!DOCTYPE html>
-<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
-  <header class="py-6 border-b bg-black">
-    {{- partial "header.html" . -}}
-  </header>
-  <main class="max-w-7xl mx-auto py-10 px-4 md:px-6 lg:px-8">
-    {{- block "main" . }}{{ end -}}
-  </main>
-  <footer class="bg-black py-10 md:py-14">
-    {{- partial "footer.html" . -}}
-  </footer>
-  {{- partialCached "footer/js.html" . }}
+<html
+  lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+>
+  <head>
+    {{ partial "head.html" . }} <link rel="stylesheet" href="{{ "/css/style.css"
+    | relURL }}">
+    <link rel="icon" href="/images/favicon.png" />
+    <link rel="apple-touch-icon" href="/images/favicon.png" />
+  </head>
+  <body>
+    <header class="py-6 border-b bg-black">
+      {{- partial "header.html" . -}}
+    </header>
+    <main class="max-w-7xl mx-auto py-10 px-4 md:px-6 lg:px-8">
+      {{- block "main" . }}{{ end -}}
+    </main>
+    <footer class="pt-10 md:pt-12 bg-black">
+      {{- partial "footer.html" . -}}
+    </footer>
 
-  <script>
-    
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log(window.location.pathname);
-      window.logPageView();
-    });
-  </script>
-</body>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        console.log(window.location.pathname);
+        window.logPageView();
+      });
+      const currentDate = new Date();
+      const year = currentDate.getFullYear();
+      document.getElementById("year").innerHTML = year;
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </body>
 </html>
