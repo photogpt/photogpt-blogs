@@ -43,7 +43,7 @@ And it's not just about looking good. AI photo ops and Photo GPT AI is revolutio
 
 Who won't like the AI imagination - as if nothing happened covering your favorite Princess Diana by artist [alperyesiltas](https://www.instagram.com/alperyesiltas/)
 
-[Princess Diana - As if nothing happened](/Assets/blogs/blog_1_Images/Princess_diana_asifnothinghappend.jpg)
+[Princess Diana - As if nothing happened](https://www.photogptai.com/Assets/blogs/blog_1_Images/GenZ_celebs.jpg)
 
 But let's keep it real – will AI replace the traditional paparazzi shots or those candid red-carpet moments? Unlikely. Photo GPT AI is less about replacing the old and more about adding a new layer of digital glitz. It’s about giving celebrities a tool to craft and control their image with unprecedented precision.
 
