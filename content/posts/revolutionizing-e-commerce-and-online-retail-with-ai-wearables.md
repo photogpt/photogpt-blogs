@@ -7,7 +7,7 @@ tags:
   - AI
 categories:
   - Blogs
-image: images/ai_ecomm.webp
+image: images/2024-07-24-052115_1570x533_scrot.png
 ---
 # Revolutionizing E-Commerce: The Impact of AI Headshots on Online Retail
 
