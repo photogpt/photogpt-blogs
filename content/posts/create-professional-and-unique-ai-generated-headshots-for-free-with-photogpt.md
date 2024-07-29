@@ -27,7 +27,7 @@ In today's digital age, a professional headshot is more than just a photo – it
 
 Using our free AI headshot generator is as simple as 1-2-3. Just follow these steps:
 
-1. Visit PhotoGPT.com and click on the "Free Headshot Generator" button.
+1. Visit Photogptai.com and click on the "Generate" button.
 2. Enter your text prompt, specifying your preferences for the headshot, such as hair color, facial expression, and attire.
 3. Click the "Generate" button, and our AI will create a personalized headshot for you.
 
