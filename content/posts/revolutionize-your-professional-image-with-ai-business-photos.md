@@ -1,6 +1,6 @@
 ---
 title: Revolutionize Your Professional Image with AI Business Photos
-date: 2024-07-29T00:00:00+05:30
+date: 2024-07-21T00:00:00+05:30
 description: Upgrade your professional image with AI business photos! Use our
   free AI Headshot Generator to create personalized, high-quality headshots for
   LinkedIn, websites, and more.
