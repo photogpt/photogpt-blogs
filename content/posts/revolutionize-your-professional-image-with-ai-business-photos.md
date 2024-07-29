@@ -29,10 +29,10 @@ Gone are the days of expensive photoshoots and limited creative options. AI-powe
 
 Ready to upgrade your professional image? Follow these easy steps:
 
-1. Visit our website and access our free AI Headshot Generator.
+1. Visit our website [Photogptai.com](https://www.photogptai.com/) and access our free AI Headshot Generator.
 2. Input your desired text prompt (e.g., "business headshot" or "LinkedIn profile picture").
-3. Choose your preferred image style and settings.
-4. Receive your generated headshot and customize as needed.
+3. Choose your preferred Ready-Made Themes from settings.
+4. Receive your generated headshot and customize it as needed.
 
 **Showcase Your Professionalism with PhotoGPT AI**
 
