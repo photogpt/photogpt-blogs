@@ -27,7 +27,7 @@ Our advanced AI technology scans your uploaded image and detects the intricate d
 **How to Use the Cyberpunk Portrait Generator**
 
 1. Upload your portrait or photo to our AI-powered platform.
-2. Provide a text prompt that captures the essence of your cyberpunk character. Think "Neon Noir," "Digital Rebel," or "Future Warrior."
+2. Provide a text prompt that captures the essence of your cyberpunk character. Think "Neon Noir," "Digital Rebel," or "Future Warrior." or you can simply select Cyberpunk preset from the settings menu.
 3. Our AI engine analyses your image, facial features, and text prompt to create a unique cyberpunk portrait.
 4. Refine your artwork by adjusting settings such as background, lighting, and composition to fit your vision.
 5. Share your creation with the world, or use it as a canvas for further creative expression.
