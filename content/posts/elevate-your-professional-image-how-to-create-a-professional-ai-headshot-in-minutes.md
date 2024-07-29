@@ -15,7 +15,7 @@ image: images/photogpt.png
 
 In today's digital age, having a professional headshot is no longer a luxury but a necessity. Whether you're a business professional, entrepreneur, or freelancer, a high-quality headshot can make a significant difference in your online presence and career prospects. However, finding the time and resources to capture a professional headshot can be a challenge.
 
-That's where artificial intelligence (AI) comes in. AI-powered headshot generation tools have revolutionized the process of creating professional headshots, making it faster, easier, and more affordable than ever. In this blog, we'll explore the benefits of AI-generated headshots and introduce you to the LightX AI Headshot Generator, a powerful tool that can transform your ordinary photos into extraordinary professional headshots in just minutes.
+That's where artificial intelligence (AI) comes in. AI-powered headshot generation tools have revolutionized the process of creating professional headshots, making it faster, easier, and more affordable than ever. In this blog, we'll explore the benefits of AI-generated headshots and introduce you to the PhotoGPT AI Headshot Generator, a powerful tool that can transform your ordinary photos into extraordinary professional headshots in just minutes.
 
 ## The Benefits of AI-Generated Headshots
 
