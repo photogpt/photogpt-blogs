@@ -36,7 +36,7 @@ AI headshot generators use advanced algorithms and machine learning technology t
 
 ## The PhotoGPT AI Headshot Generator
 
-Powered by LightX, our AI headshot generator offers a range of features that make it easy to create a professional headshot:
+Powered by PhotoGPT, our AI headshot generator offers a range of features that make it easy to create a professional headshot:
 
 1. **Pre-made styles**: Choose from a wide variety of pre-made styles, including business professional, casual, and creative.
 2. **Customization**: Upload your own backgrounds, outfits, and accessories to make your headshot truly unique.
