@@ -11,7 +11,7 @@ tags:
   - Presets
 categories:
   - Blogs
-image: images/photogpt.png
+image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/5a34c03a-fd8e-47bf-48a7-40682c5be300/q=100,gamma=1.1
 ---
 **Transform into a Cyberpunk Icon with PhotoGPT's Revolutionary Portrait Generator**
 
