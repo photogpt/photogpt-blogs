@@ -1,6 +1,6 @@
 ---
 title: Create Professional and Unique AI-Generated Headshots for Free with PhotoGPT
-date: 2024-07-29T00:00:00+05:30
+date: 2024-07-14T00:00:00+05:30
 description: Upgrade your online presence with our free AI-generated headshot
   generator. Get professional and personalized headshots for your profiles,
   social media, and business promotions.
@@ -10,7 +10,7 @@ categories:
   - Blogs
 image: images/photogpt.png
 ---
-#Create Professional and Unique AI-Generated Headshots for Free with PhotoGPT
+**Create Professional and Unique AI-Generated Headshots for Free with PhotoGPT**
 
 Are you tired of using the same old profile pictures? Do you want to make a strong online impression? Look no further! As a photo enthusiast, you can now create stunning AI-generated headshots for free with PhotoGPT. Our advanced AI technology allows you to customize your profile pictures with precision, ensuring a professional and personalized look that reflects your brand.
 
