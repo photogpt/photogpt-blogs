@@ -36,5 +36,5 @@ Ready to upgrade your professional image? Follow these easy steps:
 
 **Showcase Your Professionalism with PhotoGPT AI**
 
-ArtGuru AI takes business photos to the next level. Our advanced AI engine creates polished, natural portraits perfect for LinkedIn, resumes, business cards, social media, and beyond. Simply upload a selfie to our AI Headshot Generator and get ready to make a lasting impression.
+PhotoGPT AI takes business photos to the next level. Our advanced AI engine creates polished, natural portraits perfect for LinkedIn, resumes, business cards, social media, and beyond. Simply upload a selfie to our AI Headshot Generator and get ready to make a lasting impression.
 
