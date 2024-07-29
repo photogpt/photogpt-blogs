@@ -8,7 +8,7 @@ tags:
   - AI
 categories:
   - Blogs
-image: images/photogpt.png
+image: images/screenshot-2024-07-30-at-3.42.05 am.png
 ---
 
 **Revolutionize Your Professional Image with AI Business Photos**
