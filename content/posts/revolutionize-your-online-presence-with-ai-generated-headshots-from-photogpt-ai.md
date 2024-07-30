@@ -8,7 +8,7 @@ tags:
   - headshots
 categories:
   - Blogs
-image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/03357400-dd0d-413b-4528-e611eafc0d00/q=100,gamma=1.1
+image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/5acc6784-c8de-45aa-a2ba-3742f026f200/q=100,gamma=1.1
 ---
 # Introduction
 
