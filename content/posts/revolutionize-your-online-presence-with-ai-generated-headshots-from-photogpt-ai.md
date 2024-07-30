@@ -45,6 +45,5 @@ To make things even easier, we've curated a range of predefined preset themes to
 
 Ready to revolutionize your online presence with a personalized, AI-generated headshot? Head over to PhotoGPT AI and start creating your ideal image today. With our intuitive platform and endless possibilities, the perfect headshot is just a few clicks away.
 
-### Call-to-Action
 
 Try PhotoGPT AI now and discover the power of AI-generated headshots for yourself. [Create Your Headshot Now](https://www.photogptai.com/)
