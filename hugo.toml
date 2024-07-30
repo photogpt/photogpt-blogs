@@ -15,10 +15,10 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 
 [author]
 	name = 'PhotoGPT Writer'
-	bio = 'Machine Learning Engineer @ Samsung'
-	avatar = '/images/sunil-kumar.png'
-	twitter = 'https://www.instagram.com/stalord23/'
-	instagram ="https://www.instagram.com/stalord23/"
+	bio = 'Chief Editor @ PhotoGPT'
+	avatar = '/images/favicon.png'
+	twitter = 'https://x.com/itsphotogptai'
+	instagram ="https://www.instagram.com/photogpt_official/"
 
 
 [menu] # Menu management
