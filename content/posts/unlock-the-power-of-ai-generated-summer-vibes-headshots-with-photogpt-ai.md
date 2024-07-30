@@ -64,8 +64,8 @@ Use our AI technology to capture a moment that reflects your personality, such a
 ### Experiment with Poses
 Don't be afraid to try out different poses and angles. Our AI technology allows you to experiment with various poses and expressions to create a unique image.
 
-### Conclusion
+## Conclusion
 
 AI-generated summer vibes headshots are the perfect way to upgrade your online presence and capture the essence of the season. With PhotoGPT AI, you can create stunning, personalized images that reflect your personality and style. By following our tips and experimenting with our presets, you can create a headshot that truly represents you.
 
-So, what are you waiting for? Try out PhotoGPT AI today and unlock the power of AI-generated summer vibes headshots!
+So, what are you waiting for? Try out [PhotoGPT AI](https://www.photogptai.com/) today and unlock the power of AI-generated summer vibes headshots!
