@@ -47,4 +47,4 @@ Ready to revolutionize your online presence with a personalized, AI-generated he
 
 ### Call-to-Action
 
-Try PhotoGPT AI now and discover the power of AI-generated headshots for yourself. [Create Your Headshot Now]
+Try PhotoGPT AI now and discover the power of AI-generated headshots for yourself. [Create Your Headshot Now](https://www.photogptai.com/)
