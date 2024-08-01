@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'PhotoGPT Blogs'
+title = 'PhotoGPT Blog - Generate Professional photos using AI'
 theme = 'pehtheme-hugo'
 
 paginate = '6' # <- Set the desired number of posts per page 

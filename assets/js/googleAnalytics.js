@@ -1,6 +1,6 @@
 (function() {
     // Replace with your tracking ID
-    const trackingId = "G-JFNF9XEFRY";
+    const trackingId = "G-34ZXEGDSYH";
   
     // Google Analytics setup for Universal Analytics
     if (trackingId.startsWith('UA-')) {
