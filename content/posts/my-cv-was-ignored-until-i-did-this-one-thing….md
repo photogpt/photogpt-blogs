@@ -2,7 +2,7 @@
 title: My CV Was Ignored Until I Did This One Thing…
 date: 2024-08-12T00:00:00+05:30
 description: "How PhotoGPT can help you create the visual impact you need to stand out. "
-image: images/whatsapp-image-2024-08-12-at-10.39.02.jpeg
+image: images/55df1985-5784-4ee0-999a-eb7704f7d216_1722617323455.png
 ---
 The job market can be ruthless. **For months, I found myself in an endless cycle of sending out CVs and receiving nothing but silence in return.** Each rejection email, or worse, the lack of any response at all, felt like a blow to my confidence. I knew I had the skills and experience, but something was clearly missing. It was disheartening to see my efforts go unnoticed, and I began to question my worth and capabilities.
 
@@ -19,6 +19,6 @@ _The upscaling capability was another game-changer._ [PhotoGPT](https://www.phot
 
 With my new and improved photos, I updated my CV and LinkedIn profile. The results were almost immediate. **Recruiters and hiring managers began to notice me. I started receiving messages and connection requests from companies that had previously ignored my applications.** My revamped CV, paired with my professional headshot, stood out in a sea of applications.
 
-_PhotoGPT didn’t just enhance my photos; it transformed my entire approach to job hunting.__** It gave me the confidence to present myself as the capable, professional individual I knew I was.**_ My CV now shines, and my LinkedIn profile attracts more attention than ever before.
+_PhotoGPT didn’t just enhance my photos; it transformed my entire approach to job hunting_. _**It gave me the confidence to present myself as the capable, professional individual I knew I was.**_ My CV now shines, and my LinkedIn profile attracts more attention than ever before.
 
 _If you’re struggling to get noticed in the job market, don’t underestimate the power of a professional image._ **[PhotoGPT](https://www.photogptai.com) can help you create the visual impact you need to stand out.** It changed my life, and it can change yours too. Don’t let your efforts go unnoticed any longer. _**Give yourself the advantage you deserve and let PhotoGPT help you shine.**_
