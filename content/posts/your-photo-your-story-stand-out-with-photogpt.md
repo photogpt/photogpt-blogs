@@ -1,11 +1,11 @@
 ---
 title: "Your Photo, Your Story: Stand Out with PhotoGPT"
-date: 2024-08-13T05:22:00Z
+date: 2024-08-13T05:22:00.000Z
 description: " PhotoGPT can help you bring your vision to life and highlight
-  your unique styl"
+  your unique style"
 image: images/whatsapp-image-2024-08-13-at-10.51.12.jpeg
 ---
-In a world flooded with images, standing out can feels like an impossible task. **But what if there was a way to make your photos not just seen, but felt?** _That’s where [PhotoGPT](https://www.photogptai.com) comes in._
+In a world flooded with images, standing out can feel like an impossible task. **But what if there was a way to make your photos not just seen, but felt?** _That’s where [PhotoGPT](https://www.photogptai.com) comes in._
 
 Think about the last photo that caught your eye. Maybe it was a friend’s new LinkedIn profile picture, polished and professional, or a dreamy landscape that looked like it was plucked straight out of a fairy tale. Whatever it was, it wasn’t just the image itself that grabbed your attention—it was the emotion behind it.
 
