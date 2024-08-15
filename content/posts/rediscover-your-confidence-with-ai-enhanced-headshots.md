@@ -5,7 +5,7 @@ description: It’s not just about capturing an image; it’s about capturing wh
   are and how we want the world to see us. This is where AI headshot photography
   comes into play.
 categories:
-  - Trends in AI Photography
+  - Trends-in-AI-Photography
 image: images/9a163082-3b1b-49c9-b90f-3093b1747b85_1722182082639.png
 ---
 We’ve all been there—staring into the camera, trying to strike the perfect pose, but ending up with a photo that feels more awkward than authentic. The pressure to present ourselves in the best light, especially in professional settings, can be overwhelming. It’s not just about capturing an image; it’s about capturing who we are and how we want the world to see us. This is where AI headshot photography, like what [PhotoGPT](https://www.photogptai.com)offers, comes into play.
