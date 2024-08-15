@@ -4,7 +4,7 @@ date: 2024-08-12T00:00:00+05:30
 description: PhotoGPT empowers you to create, to explore, and to share your
   story in ways that resonate and inspire.
 categories:
-  - User Success Stories
+  - User-Success-Stories
 image: images/whatsapp-image-2024-08-12-at-11.13.05.jpeg
 ---
 Have you ever felt like the odd one out among your friends? That’s been my story for as long as I can remember. _While everyone else seemed to have plans and adventures to share, I was often left out, scrolling through social media feeds filled with their exciting escapades._ It hurt, seeing them having fun without me, and I couldn’t help but feel a pang of jealousy.
