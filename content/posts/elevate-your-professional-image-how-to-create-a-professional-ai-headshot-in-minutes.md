@@ -8,7 +8,7 @@ description: Create professional headshots easily with our AI-powered headshot
 tags:
   - Headshot
 categories:
-  - Blogs
+  - How-To Guides and Tutorials
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/3e9285cc-e165-497a-5b6f-ba806bc9f300/q=100,gamma=1.1
 ---
 # Elevate Your Professional Image: How to Create a Professional AI Headshot in Minutes
