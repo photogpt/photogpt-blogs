@@ -9,7 +9,7 @@ tags:
   - Beach
   - Headshots
 categories:
-  - Blogs
+  - Creative Photo Projects
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/57901966-8d53-4989-674c-19f155e57a00/q=100,gamma=1.1
 ---
 # Introduction
