@@ -7,7 +7,7 @@ description: Upgrade your online presence with our free AI-generated headshot
 tags:
   - Headshots
 categories:
-  - How-To Guides and Tutorials
+  - Guides-and-Tutorials
 image: images/screenshot-2024-07-30-at-3.29.14 am.png
 ---
 **Create Professional and Unique AI-Generated Headshots for Free with PhotoGPT**
