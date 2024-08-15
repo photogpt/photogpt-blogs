@@ -9,11 +9,11 @@
     <link rel="icon" href="/images/favicon.png" />
     <link rel="apple-touch-icon" href="/images/favicon.png" />
   </head>
-  <body>
-    <header class="py-6 border-b bg-black">
+  <body class="bg-black">
+    <header class="py-6 border-b border-white/10 bg-black ">
       {{- partial "header.html" . -}}
     </header>
-    <main class="max-w-7xl mx-auto py-10 px-4 md:px-6 lg:px-8">
+    <main class="max-w-7xl mx-auto py-10 px-4 md:px-6 lg:px-8 bg-black">
       {{- block "main" . }}{{ end -}}
     </main>
     <footer class="pt-10 md:pt-12 bg-black">
