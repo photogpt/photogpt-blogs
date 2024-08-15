@@ -2,6 +2,8 @@
 title: "Your Vision, Our Canvas: PhotoGPT’s Revolutionising Of Your Digital Identity"
 date: 2024-08-12T00:00:00+05:30
 description: Write a few lines describing your vision, and PhotoGPT will bring it to life.
+categories:
+  - Trends in AI Photography
 image: images/whatsapp-image-2024-08-12-at-11.34.18.jpeg
 ---
 In the digital age, a picture is worth not just a thousand words, but countless opportunities. [PhotoGPT](https://www.photogptai.com), brings the power of AI to your fingertips, enabling you to create flawless professional portraits and imaginative themed headshots with ease. _**Whether you’re revamping your LinkedIn profile, enhancing your Instagram presence, or crafting the perfect Tinder image, PhotoGPT has you covered.**_
