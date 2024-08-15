@@ -2,6 +2,8 @@
 title: My CV Was Ignored Until I Did This One Thing…
 date: 2024-08-12T00:00:00+05:30
 description: "How PhotoGPT can help you create the visual impact you need to stand out. "
+categories:
+  - User Success Stories
 image: images/55df1985-5784-4ee0-999a-eb7704f7d216_1722617323455.png
 ---
 The job market can be ruthless. **For months, I found myself in an endless cycle of sending out CVs and receiving nothing but silence in return.** Each rejection email, or worse, the lack of any response at all, felt like a blow to my confidence. I knew I had the skills and experience, but something was clearly missing. It was disheartening to see my efforts go unnoticed, and I began to question my worth and capabilities.
