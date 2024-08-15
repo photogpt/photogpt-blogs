@@ -7,7 +7,7 @@ description: Discover the future of online presence with PhotoGPT AI's
 tags:
   - headshots
 categories:
-  - Blogs
+  - Personal Branding
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/5acc6784-c8de-45aa-a2ba-3742f026f200/q=100,gamma=1.1
 ---
 # Introduction
