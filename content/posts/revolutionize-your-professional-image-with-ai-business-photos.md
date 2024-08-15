@@ -7,7 +7,7 @@ description: Upgrade your professional image with AI business photos! Use our
 tags:
   - AI
 categories:
-  - Professional Photography
+  - Professional-Photography
 image: images/screenshot-2024-07-30-at-3.42.05 am.png
 ---
 
