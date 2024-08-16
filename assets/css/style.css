@@ -1,4 +1,22 @@
+#content h1{
+    color: white;
+}
+#content h2{
+    color: white;
+}
 #content h3{
+    color: white;
+}
+#content h3 a{
+    color: white;
+}
+#content h4{
+    color: white;
+}
+
+
+
+#content h5{
     color: white;
 }
 #content p{
@@ -22,4 +40,10 @@ color: #aaa
 }
 #content li{
     color: #aaa;
+}
+#content li strong{
+    color: white;
+}
+#content li a{
+    color: white;
 }

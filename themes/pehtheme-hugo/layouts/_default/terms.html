@@ -6,13 +6,13 @@
 
   <section class="md:col-span-2">
 
-    <h2 class="text-3xl font-bold mb-10">{{ .Title | humanize }}</h2>
+    <h2 class="text-3xl font-bold mb-10 text-white">{{ .Title | humanize }}</h2>
 
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-10 text-2xl">
 
       {{- range .Pages -}}
 
-      <li class="relative hover:bg-zinc-200 border py-6 px-8 rounded-2xl group">
+      <li class="relative hover:bg-white/20 border py-6 px-8 rounded-2xl group">
       	<a class="insert-link flex items-center space-x-4" href="{{ .RelPermalink }}">
       		<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="group-hover:animate-spin" viewBox="0 0 16 16">
   				<path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
