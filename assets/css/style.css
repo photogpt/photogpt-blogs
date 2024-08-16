@@ -20,7 +20,7 @@
     color: white;
 }
 #content p{
-color: #aaa
+color: #ccc
 /* opacity: 90%; */
 }
 
@@ -36,10 +36,10 @@ color: #aaa
 }
 
 #content li::marker{
-    color: #aaa
+    color: #ccc
 }
 #content li{
-    color: #aaa;
+    color: #ccc;
 }
 #content li strong{
     color: white;
