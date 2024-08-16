@@ -4,7 +4,7 @@ date: 2024-08-12T00:00:00+05:30
 description: PhotoGPT enables anyone to consistently produce
   professional-looking images that resonate with their target audience.
 categories:
-  - Trends-AI-Photography
+  - Trends-in-AI-Photography
 image: images/whatsapp-image-2024-08-12-at-12.06.49.jpeg
 ---
 In the ever-evolving landscape of social media, a new trend is rapidly gaining ground, and it’s reshaping the way we interact with visuals on our favorite platforms. This trend revolves around the innovative _**use of artificial intelligence (AI) to generate a plethora of striking and personalized images that captivate our online audiences.**_ At the forefront of this digital revolution is PhotoGPT, a cutting-edge AI tool that’s taking the social media world by storm.
