@@ -10,10 +10,10 @@
     <link rel="apple-touch-icon" href="/images/favicon.png" />
   </head>
   <body class="bg-black">
-    <header class="py-6 border-b border-white/10 bg-black ">
+    <header class="py-6  border-white/10 bg-black fixed top-0 backdrop-blur-lg bg-transparent left-0 z-10 mx-auto w-full">
       {{- partial "header.html" . -}}
     </header>
-    <main class="max-w-7xl mx-auto py-10 px-4 md:px-6 lg:px-8 bg-black">
+    <main class="max-w-7xl mx-auto py-10 pt-16 px-6 md:px-6 lg:px-10 bg-black ">
       {{- block "main" . }}{{ end -}}
     </main>
     <footer class="pt-10 md:pt-12 bg-black">

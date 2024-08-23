@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'PhotoGPT Blog - Generate Professional photos using AI'
+title = 'PhotoGPT Blog'
 theme = 'pehtheme-hugo'
 
 paginate = '6' # <- Set the desired number of posts per page 
@@ -27,8 +27,8 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 		pageRef = '/'
 		weight = 10
 	[[menu.main]]
-		name = 'About'
-		pageRef = '/about'
+		name = 'Categories'
+		pageRef = '/categories'
 		weight = 15
 	[[menu.main]]
 		name = 'Tags'
