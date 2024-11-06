@@ -1,7 +1,7 @@
 ---
 title: "Get Festive for Thanksgiving with AI-Generated Images: Family Cards,
   Decor, and More"
-date: 2024-11-06T20:03:00Z
+date: 2024-11-06T20:03:00.000Z
 description: Thanksgiving is a time to celebrate with loved ones, and what
   better way than capturing the warmth and festive spirit of the season? From
   AI-generated Thanksgiving images for family cards to cozy home decor ideas,
@@ -11,8 +11,7 @@ tags:
   - AI-Generated
   - Headshots
   - AI-Festive-Vibes
-categories:
-  - Guidesand-tutorials
+categories: []
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/47f2fd39-f753-4542-27b4-0bc0a724d300/public
 ---
 ## **1. Create Perfect Thanksgiving Family Cards with AI-Generated Images**
