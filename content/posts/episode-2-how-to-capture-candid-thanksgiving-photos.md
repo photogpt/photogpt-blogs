@@ -1,12 +1,11 @@
 ---
 title: "Episode 2: How to Capture Candid Thanksgiving photos?"
-date: 2024-11-06T19:40:00Z
-description: 'Welcome to Episode 2 of our "How to Take Great Thanksgiving
-  Photos" series! Now that you’ve planned your outfits and set up a festive
-  look, it’s time to focus on capturing the magic of Thanksgiving Day. This
-  episode will cover tips for taking natural, candid shots and using the best
-  lighting to enhance your Thanksgiving photos. Link to Episode 1:
-  https://blog.photogptai.com/posts/thanksgiving-how-to-take-great-thanksgiving-photos-with-photogpt/'
+date: 2024-11-06T19:40:00.000Z
+description: Welcome to Episode 2 of our "How to Take Great Thanksgiving Photos"
+  series! Now that you’ve planned your outfits and set up a festive look, it’s
+  time to focus on capturing the magic of Thanksgiving Day. This episode will
+  cover tips for taking natural, candid shots and using the best lighting to
+  enhance your Thanksgiving photos.
 tags:
   - Thanksgiving
 image: images/67fa8c0b-0378-4848-9b50-d194c20f4b96_1730451125454.png
@@ -29,4 +28,6 @@ Good photos aren’t just about what you capture, but how you capture it. Experi
 
 **How to Use PhotoGPT:** Generate different angles and perspectives to explore creative shots. From close-ups of dishes to wider family portraits, PhotoGPT can help you plan shots that make each photo feel unique.
 
-Get ready for Episode 3, where we’ll wrap up with tips on showcasing the Thanksgiving feast and selecting your favorite shots with PhotoGPT!
+Get ready for Episode 3, where we’ll wrap up with tips on showcasing the Thanksgiving feast and selecting your favorite shots with PhotoGPT!\
+\
+ Link to Episode 1: <https://blog.photogptai.com/posts/thanksgiving-how-to-take-great-thanksgiving-photos-with-photogpt/>
