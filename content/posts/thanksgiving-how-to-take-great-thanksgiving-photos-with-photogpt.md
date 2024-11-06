@@ -1,5 +1,5 @@
 ---
-title: Thanksgiving How to Take Great Thanksgiving Photos with PhotoGPT
+title: How to Take Great Thanksgiving Photos with PhotoGPT
 date: 2024-11-06T19:06:00.000Z
 description: "Learn to plan and style your Thanksgiving photos with PhotoGPT, an
   advanced AI image generator. This blog guides you in coordinating outfits,
