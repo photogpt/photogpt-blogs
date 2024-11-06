@@ -9,7 +9,7 @@ description: "Learn to plan and style your Thanksgiving photos with PhotoGPT, an
   episodes! "
 tags:
   - ThanksgivingPhotos
-image: images/03c619e0-2534-40c0-99eb-3a181ddff225_1730547772194.png
+image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/4b44a5c4-baee-4e64-cb5b-7e15fae61e00/q=100
 ---
 # **Plan Your Thanksgiving Look with PhotoGPT**
 
