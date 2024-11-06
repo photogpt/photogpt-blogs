@@ -9,7 +9,7 @@ tags:
   - Thanksgiving
   - presets
 categories:
-  - GuidesandTutorials
+  - Guides-and-Tutorials
 image: images/27b7f22f-75ba-460d-9228-3ec73cd38a8c_1730546533316.png
 ---
 **Create Festive, Thanksgiving AI-Generated Images with PhotoGPT**
