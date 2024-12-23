@@ -1,6 +1,6 @@
 ---
 title: Reflections, Resolutions and the Perfect New Year Album
-date: 2024-12-23T08:41:00Z
+date: 2024-12-23T08:41:00.000Z
 description: Celebrate the New Year with a perfect blend of gratitude and
   ambition. Turn your highlights and resolutions into stunning visuals using
   AI-powered creativity that inspires and preserves every moment.
@@ -11,7 +11,7 @@ tags:
   - GiftIdeas
 categories:
   - HolidaySeason
-image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/95378491-b2b4-4b90-57c4-a1b90bcbf200/public
+image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/1dcaf4fd-a363-4cb8-41d5-1bcca4c4aa00/public
 ---
 
 
@@ -21,7 +21,7 @@ Capturing this balance of ambition and appreciation doesn’t have to be overwhe
 
 
 
-### **1. Reflect on Your 2023 Highlights**  
+### **1. Reflect on Your 2024 Highlights**  
 Before diving into the future, take a moment to honor the past. Celebrate the milestones—big or small—that made the last year special. Whether it’s a career achievement, a family trip, or simply surviving a challenging season, these moments deserve recognition.  
 
 **Creative idea:**  
@@ -87,4 +87,4 @@ Psychology tells us that visual cues enhance emotional engagement. When you pair
 
 This New Year, let your photos tell a richer story—one of goals, gratitude, and everything in between. Elevate the magic of the moment with visuals that inspire, motivate, and keep the spirit of the season alive long after the clock strikes midnight.  
 
-Start 2024 with a heart full of gratitude and a camera roll full of memories that truly sparkle.
+Start 2025 with a heart full of gratitude and a camera roll full of memories that truly sparkle.
