@@ -1,6 +1,6 @@
 ---
 title: Guide to the Best Studio Ghibli-Inspired AI Images
-date: 2025-03-25T05:34:00Z
+date: 2025-03-25T05:34:00.000Z
 description: Simple inputs. Magical outputs. Nostalgia reimagined.
 tags:
   - Studio-Ghibli-AI
@@ -25,9 +25,9 @@ You don’t need complex descriptions or detailed prompts. Ghibli’s magic is i
 * *"Train gliding across water at sunset"*
 * *"A small house on a hill surrounded by flowers"*
 
-These kinds of prompts are perfect for sparking AI generation that captures the **mood, tone, and visual warmth** Ghibli is known for.
+These kinds of prompts are perfect for sparking AI generation that captures the **mood, tone, and visual warmth** Ghibli is known for.[](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/9c8505bb-528d-4289-0d39-97cf4b18a200/q=100)
 
-<https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/9c8505bb-528d-4289-0d39-97cf4b18a200/q=100>
+![](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/9c8505bb-528d-4289-0d39-97cf4b18a200/q=100)
 
 ### **2. Include Yourself: Add a Photo to Be Part of the Story**
 
@@ -37,9 +37,9 @@ Want to take it a step further? Upload your own photo and pair it with a short s
 * *"Flying through a pastel sky in a tiny plane"*
 * *"Standing in a Ghibli-style town street at dusk"*
 
-This is where nostalgia meets self-expression—making it feel like you're inside the movie itself.
+This is where nostalgia meets self-expression—making it feel like you're inside the movie itself.[](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/430fa3c7-5941-47a3-75bd-e83396269a00/q=100)
 
-<https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/430fa3c7-5941-47a3-75bd-e83396269a00/q=100>
+![](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/430fa3c7-5941-47a3-75bd-e83396269a00/q=100)
 
 ### **3. Recreate Iconic Scenes from Ghibli Movies**
 
@@ -82,8 +82,8 @@ You don’t need drawing skills or a complex prompt vocabulary. You just need:
 * A single sentence
 * And a little imagination
 
-From there, AI does the rest—turning your vision into a moment that could live forever in the Ghibli universe.\
-\
-<https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/dc8a009a-dc6c-448b-6e21-7c80ebe82400/q=100>[](https://www.photogptai.com/presets/ghibli)
+From there, AI does the rest—turning your vision into a moment that could live forever in the Ghibli universe.[](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/dc8a009a-dc6c-448b-6e21-7c80ebe82400/q=100)[](https://www.photogptai.com/presets/ghibli)
+
+![](https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/dc8a009a-dc6c-448b-6e21-7c80ebe82400/q=100)
 
 [](https://www.photogptai.com/presets/ghibli)Recreate the nostalgia. Become part of the magic.
