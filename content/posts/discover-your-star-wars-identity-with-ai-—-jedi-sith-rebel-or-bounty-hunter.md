@@ -8,6 +8,10 @@ description: Unleash your Star Wars persona with the AI Character Generator from
   just a prompt.
 tags:
   - AI
+  - AI-Generated-Images
+  - AI-Images
+  - AI-Headshots
+  - Trends-In-AI
 categories:
   - Trends-In-AI
   - AI-Image-Generation
