@@ -5,6 +5,10 @@ description: Transform yourself into a Jedi, Sith, or galactic rebel in minutes
   — no costume required.
 tags:
   - AI
+  - AI-Generated-Images
+  - AI-Images
+  - AI-Headshots
+  - Trends-In-AI
 categories:
   - Trends-In-AI
   - AI-Image-Generation
