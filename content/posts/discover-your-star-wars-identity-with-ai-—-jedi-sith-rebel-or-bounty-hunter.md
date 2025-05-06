@@ -1,6 +1,6 @@
 ---
 title: Discover Your Star Wars Identity with AI — Jedi, Sith, Rebel, or Bounty Hunter
-date: 2025-05-06T14:25:00Z
+date: 2025-05-06T14:25:00.000Z
 description: Unleash your Star Wars persona with the AI Character Generator from
   PhotoGPT AI. Upload your selfies, choose your allegiance, and create stunning,
   ultra-realistic portraits of yourself as a Jedi, Sith, Rebel, or Bounty Hunter
@@ -8,6 +8,10 @@ description: Unleash your Star Wars persona with the AI Character Generator from
   just a prompt.
 tags:
   - AI
+categories:
+  - Trends-In-AI
+  - AI-Image-Generation
+  - Market-Trends
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/e80725b9-51ef-4553-8efa-7e02f5a49600/q=100
 ---
 # From Padawan to Master: Choose Your Star Wars Path with AI
