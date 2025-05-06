@@ -5,6 +5,10 @@ description: Step into the Star Wars universe and embrace the light—or the
   dark—with AI-generated portraits.
 tags:
   - AI
+  - AI-Generated-Images
+  - AI-Images
+  - AI-Headshots
+  - Trends-In-AI
 categories:
   - Trends-In-AI
   - AI-Image-Generation
