@@ -6,8 +6,9 @@ description: Transform yourself into a Jedi, Sith, or galactic rebel in minutes
 tags:
   - AI
 categories:
-  - Blogs
-  - TrendsInAI
+  - Trends-In-AI
+  - AI-Image-Generation
+  - Market-Trends
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/24f6d607-5d0f-44d3-35b3-4e689010d100/q=100
 ---
 # Create Your Star Wars Avatar with AI: A Step-by-Step Guide
