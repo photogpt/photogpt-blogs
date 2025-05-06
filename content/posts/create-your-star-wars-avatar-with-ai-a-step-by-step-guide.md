@@ -1,12 +1,13 @@
 ---
 title: "Create Your Star Wars Avatar with AI: A Step-by-Step Guide"
-date: 2025-05-06T13:31:00Z
+date: 2025-05-06T13:31:00.000Z
 description: Transform yourself into a Jedi, Sith, or galactic rebel in minutes
   — no costume required.
 tags:
   - AI
 categories:
   - Blogs
+  - TrendsInAI
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/24f6d607-5d0f-44d3-35b3-4e689010d100/q=100
 ---
 # Create Your Star Wars Avatar with AI: A Step-by-Step Guide
