@@ -1,11 +1,14 @@
 ---
 title: "AI Meets the Force: How to Transform Yourself into a Jedi or Sith"
-date: 2025-05-06T14:06:00Z
+date: 2025-05-06T14:06:00.000Z
 description: Step into the Star Wars universe and embrace the light—or the
   dark—with AI-generated portraits.
 tags:
   - AI
-categories: []
+categories:
+  - Trends-In-AI
+  - AI-Image-Generation
+  - Market-Trends
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/e2ca78f5-d635-4d23-418a-c5cecc697700/q=100
 ---
 # AI Meets the Force: How to Transform Yourself into a Jedi or Sith
