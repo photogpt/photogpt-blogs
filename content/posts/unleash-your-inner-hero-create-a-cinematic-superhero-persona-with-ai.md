@@ -7,6 +7,10 @@ description: Turn your selfies into epic, Marvel-style portraits using the New
   photorealistic superhero — no super serum required.
 tags:
   - AI
+  - Image-GPT
+  - AI-Generated-Images
+  - PhotoGPT
+  - Picture-GPT
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/142e4321-c9c6-4d52-2523-984aeaf36100/q=100
 ---
 # Designing Your Superhero Persona with AI – A Step-by-Step Guide
