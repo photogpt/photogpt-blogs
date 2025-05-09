@@ -1,12 +1,16 @@
 ---
 title: "Pixels & Poses: How AI Is Redefining Met Gala Fashion"
-date: 2025-05-09T18:43:00Z
+date: 2025-05-09T18:43:00.000Z
 description: Explore the intersection of high fashion and artificial
   intelligence with a deep dive into the Met Gala’s iconic style evolution.
   Discover how AI tools empower users to reimagine past themes, create
   couture-inspired portraits, and participate in fashion’s most exclusive night
 tags:
   - AI
+  - Image-GPT
+  - AI-Generated-Images
+  - PhotoGPT
+  - Picture-GPT
 image: https://imagedelivery.net/TkcHhODAR5Y7jFoICvSX0Q/b808d81b-ad76-4ba9-6196-60f9334d8600/q=100
 ---
 # The Evolution of Met Gala Fashion Through AI Imagery
