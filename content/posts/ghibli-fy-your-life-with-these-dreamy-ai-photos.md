@@ -58,7 +58,7 @@ And yes, you can even generate scenes that look like you’re wandering through 
 Using PhotoGPT’s **Ghibli AI generator** is literally easier than casting a spell:
 
 1. ✨ Go to [PhotoGPT](https://www.photogptai.com/)  
-2. 📸 Upload your photo (selfies, pets, scenery—anything!)  
+2. 📸 Upload your [few well-lit selfies](https://www.photogptai.com/guides/selecting-the-ideal-input-images) to create your AI twin  
 3. 🎨 Choose the **Ghibli filter** preset  
 4. 🔮 Watch as AI transforms your image into a dreamy visual  
 5. 💾 Download and share your new Ghibli-style masterpiece  
