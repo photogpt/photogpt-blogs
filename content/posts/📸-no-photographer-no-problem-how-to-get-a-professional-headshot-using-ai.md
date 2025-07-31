@@ -1,6 +1,6 @@
 ---
 title: "📸 No Photographer? No Problem: How to Get a Professional Headshot Using AI"
-date: 2025-07-31T11:04:00Z
+date: 2025-07-31T11:04:00.000Z
 description: In today’s professional world, your profile photo is often your
   *first impression*. Whether you’re job hunting, networking, or building your
   personal brand, a high-quality headshot can open doors. But not everyone has
@@ -43,8 +43,8 @@ Thanks to breakthroughs in generative AI, it’s now possible to upload a few ca
 
 Platforms like [PhotoGPT](https://www.photogptai.com) are leading the charge. After uploading 12–15 varied selfies, users can generate realistic, personalized portraits in styles like:
 
-* Corporate or business professional
-* Creative industry aesthetic
+* [Corporate or business professional](https://www.photogptai.com/presets/professional)
+* [Creative industry aesthetic](https://www.photogptai.com/presets/instagram)
 * Startup-friendly modern looks
 * Artistic or editorial headshots
 
@@ -60,8 +60,8 @@ The result? **Photos that look like you on your best day**, captured through a l
 Here’s the process in a nutshell:
 
 1. **Upload 12–15 selfies**: Casual selfies from your phone work fine, just make sure they include different angles, expressions, and lighting.
-2. **Choose a style**: Whether you're aiming for a clean LinkedIn photo, a tech founder vibe, or something more creative.
-3. **Let AI do the work**: Within 30–60 minutes, PhotoGPT trains on your photos and delivers a set of fully rendered headshots.
+2. **[Choose a style](https://www.photogptai.com/presets)**: Whether you're aiming for a clean LinkedIn photo, a tech founder vibe, or something more creative.
+3. **Let AI do the work**: Within 15-20 minutes, PhotoGPT trains on your photos and delivers a set of fully rendered headshots.
 4. **Download & use**: Apply them instantly across LinkedIn, email signatures, portfolios, press kits, and more.
 
 - - -
